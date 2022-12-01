@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
-//Data Anda
+//------- Data Saya --------//
 String apiKey = "apikeyfromThingspeak"; // <<<<< API KEY
 const char* ssid = "niq_ro"; // <<<<<<<< Wi-Fi SSID 
-const char* password = "meritabere"; // <<<<<<<< Wi-Fi Pasword
+const char* password = "meritabe0re"; // <<<<<<<< Wi-Fi Pasword
 
 const char* server = "api.thingspeak.com";
 
